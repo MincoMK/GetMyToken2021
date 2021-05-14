@@ -20,7 +20,7 @@ java -jar <Jar File Path>
 Simply, just double click Jar file!
 
 ### Finally:
-1. Select ChromeDriver of your Operating System (It's ith jar file in GitHub)
+1. Select ChromeDriver of your Operating System (It's in ChromeDrivers folder)
 2. Insert discord email, password
 3. Wait a moment. Chrome will launch
 4. If you need a captcha, do captcha
